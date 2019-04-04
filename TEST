@@ -1,0 +1,1 @@
+SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, chemin, SPIF_UPDATEINIFILE | SPIF_SENDCHANGE); // code pour changer le fond d'écran 
